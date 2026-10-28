@@ -1,5 +1,6 @@
 package com.tosan.tools.otpgenerator.service.cache;
 
+import com.tosan.tools.otpgenerator.exception.OtpException;
 import com.tosan.tools.otpgenerator.model.OtpData;
 import com.tosan.tools.otpgenerator.utils.OtpUtil;
 
