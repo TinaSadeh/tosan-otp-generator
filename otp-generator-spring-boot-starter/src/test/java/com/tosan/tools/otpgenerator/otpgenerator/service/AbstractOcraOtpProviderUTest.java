@@ -1,10 +1,10 @@
 package com.tosan.tools.otpgenerator.otpgenerator.service;
 
-import com.tosan.otpgenerator.model.OtpData;
+import com.tosan.tools.otpgenerator.model.OtpData;
 import com.tosan.tools.otpgenerator.otpgenerator.AbstractUTest;
 import com.tosan.tools.otpgenerator.otpgenerator.TestFixtures;
 import com.tosan.tools.otpgenerator.otpgenerator.TestFixtures.TestOtpData;
-import com.tosan.otpgenerator.otpgenerator.TestFixtures.TestOtpRequest;
+import com.tosan.tools.otpgenerator.otpgenerator.TestFixtures.TestOtpRequest;
 import com.tosan.tools.otpgenerator.service.OcraOtpProvider;
 import com.tosan.tools.otpgenerator.service.SecretKeyProvider;
 import com.tosan.tools.otpgenerator.service.cache.OtpConsumptionMarkerService;
