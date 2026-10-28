@@ -4,7 +4,7 @@ import com.tosan.tools.otpgenerator.otpgenerator.AbstractUTest;
 import com.tosan.tools.otpgenerator.otpgenerator.TestFixtures;
 import com.tosan.tools.otpgenerator.otpgenerator.TestFixtures.TestOtpData;
 import com.tosan.tools.otpgenerator.service.cache.LocalUserTransactionManager;
-import com.tosan.otpgenerator.service.cache.OtpConsumptionMarkerService;
+import com.tosan.tools.otpgenerator.service.cache.OtpConsumptionMarkerService;
 import com.tosan.tools.otpgenerator.service.cache.TransactionCacheService;
 import com.tosan.tools.otpgenerator.service.cache.UserTransactionCacheService;
 import org.junit.jupiter.api.BeforeEach;
